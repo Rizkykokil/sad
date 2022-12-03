@@ -2,7 +2,7 @@
 
 Yg Mau Sv Nomerku?
 
-wa.me/6282287219167
+wa.me/6282288502856
 
 Minimal Kasih Cr kalo mau reupload😡
 
@@ -11,7 +11,7 @@ Yg Reupload Tanpa Kasih Cr
 Sc Akan Saya Encode
 
 Base : Hisoka
-Recode : NazeDev & Papah-Chan ( Nama Lu )
+Recode : RizkyDev & DavinaDev ( Nama Lu )
 
 **/
 require('./config')
