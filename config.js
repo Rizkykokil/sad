@@ -1,8 +1,8 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By Naze Dev && Papah-Chan
-   * Contact Me on wa.me/6282287219167
-   * Follow https://github.com/FahriAdison
+   * Create By Davina x Rizky.
+   * Recode By Rizky
+   * Contact Me on wa.me/6282288502856
+   * Follow https://Instragram.com/_____iky.24
 */
 
 const fs = require('fs')
@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282287219167']
-global.ownernomer = "6282287219167"
-global.premium = ['6282287219167']
+global.owner = ['6282288502856']
+global.ownernomer = "6282288502856"
+global.premium = ['6282288502856']
 global.packname = 'Sticker By'
-global.author = 'Sad-Bot'
+global.author = 'Alice Chan'
 global.sessionName = 'papah'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -51,7 +51,7 @@ global.mess = {
 // Limit
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 999
 }
 
 // Fake
@@ -65,9 +65,9 @@ global.myytv = ''
 global.mygc = ""
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'SAD BOT'
-global.akulaku = 'Bot By Papah'
-global.ytname = 'YT PAPAH' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'Alice Chan'
+global.akulaku = 'Bot By Iky X Davina'
+global.ytname = 'gak ada' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
